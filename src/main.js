@@ -1,5 +1,5 @@
 import {cowsay} from 'cowsayjs';
 
-console.log(cowsay('I am a module', {
+console.log(cowsay('Hello, world!', {
   mode: 'y'
 }));
