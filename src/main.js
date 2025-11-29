@@ -1,5 +1,5 @@
 import {cowsay} from 'cowsayjs';
 
 console.log(cowsay('Hello, world!', {
-  mode: 'g'
+  mode: 'p'
 }));
