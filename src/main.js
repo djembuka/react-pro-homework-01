@@ -1,5 +1,5 @@
 import {cowsay} from 'cowsayjs';
 
 console.log(cowsay('Hi, bull!', {
-  mode: 'u'
+  mode: 'i'
 }));
