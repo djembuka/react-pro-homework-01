@@ -1,5 +1,5 @@
 import {cowsay} from 'cowsayjs';
 
-console.log(cowsay('Hello, bull!', {
+console.log(cowsay('Hi, bull!', {
   mode: 'p'
 }));
